@@ -10,4 +10,4 @@ ERC-721 Token Name - `O Crypto Star`
 
 ERC-721 Token Symbol - `OCRS`
 
-“Token Address” on the Rinkeby Network - `https://rinkeby.etherscan.io/token/0xD2E72a7Bc4956662A5cda3EcA448a12341d1dd08`
+“Token Address” on the Rinkeby Network - [OCRS Token](https://rinkeby.etherscan.io/token/0xD2E72a7Bc4956662A5cda3EcA448a12341d1dd08)
